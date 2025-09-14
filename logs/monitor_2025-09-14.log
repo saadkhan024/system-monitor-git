@@ -4,3 +4,9 @@
 [OK] Disk usage: 22%
 =========================================
 
+===== System Health Check @ Sun Sep 14 05:09:32 UTC 2025 =====
+[ALERT] High CPU usage: 100%
+[OK] Memory usage: 41%
+[OK] Disk usage: 22%
+=========================================
+
